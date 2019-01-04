@@ -1,8 +1,8 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='IEX.conf'
-CONFIGFOLDER='/root/.iex'
+CONFIG_FILE='iex.conf'
+CONFIGFOLDER='/root/.IEX'
 COIN_DAEMON='iexd'
 COIN_CLI='iex-cli'
 COIN_PATH='/usr/local/bin/'
